@@ -1,18 +1,18 @@
-## Getting Started
+### READEME
+## Projeto Imersão Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+<p>Nesse Sistema de Api's Foi usado 100% java</
 
-## Folder Structure
+<h2>Projeto Apis 250 melhores Filmes</h2>
 
-The workspace contains two folders by default, where:
+<h4 aling="center">   Projeto Imersao Java Api's ⛔ Em construção... </h4><br/>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Features <br/>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+(x)Title
+(x)Year
+(x)imdBRating
+(x)Image
+(x)imDBRatingCount
+()adicionar estrelas emojis para contagem de rating
+()adicionar comando para classificação por conta propria
