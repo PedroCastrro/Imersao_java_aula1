@@ -14,5 +14,3 @@
 (x)imdBRating
 (x)Image
 (x)imDBRatingCount
-()adicionar estrelas emojis para contagem de rating
-()adicionar comando para classificação por conta propria
